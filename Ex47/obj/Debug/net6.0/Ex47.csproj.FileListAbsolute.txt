@@ -1,0 +1,15 @@
+/Users/admin/Desktop/Homework_7/Ex47/bin/Debug/net6.0/Ex47
+/Users/admin/Desktop/Homework_7/Ex47/bin/Debug/net6.0/Ex47.deps.json
+/Users/admin/Desktop/Homework_7/Ex47/bin/Debug/net6.0/Ex47.runtimeconfig.json
+/Users/admin/Desktop/Homework_7/Ex47/bin/Debug/net6.0/Ex47.dll
+/Users/admin/Desktop/Homework_7/Ex47/bin/Debug/net6.0/Ex47.pdb
+/Users/admin/Desktop/Homework_7/Ex47/obj/Debug/net6.0/Ex47.csproj.AssemblyReference.cache
+/Users/admin/Desktop/Homework_7/Ex47/obj/Debug/net6.0/Ex47.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/Homework_7/Ex47/obj/Debug/net6.0/Ex47.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Homework_7/Ex47/obj/Debug/net6.0/Ex47.AssemblyInfo.cs
+/Users/admin/Desktop/Homework_7/Ex47/obj/Debug/net6.0/Ex47.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Homework_7/Ex47/obj/Debug/net6.0/Ex47.dll
+/Users/admin/Desktop/Homework_7/Ex47/obj/Debug/net6.0/refint/Ex47.dll
+/Users/admin/Desktop/Homework_7/Ex47/obj/Debug/net6.0/Ex47.pdb
+/Users/admin/Desktop/Homework_7/Ex47/obj/Debug/net6.0/Ex47.genruntimeconfig.cache
+/Users/admin/Desktop/Homework_7/Ex47/obj/Debug/net6.0/ref/Ex47.dll
